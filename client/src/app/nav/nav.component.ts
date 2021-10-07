@@ -25,9 +25,6 @@ model: any = {}
     this.accountService.login(this.model).subscribe(response => { // Subscribing to Observable on Login - And setting Logged in Status = True.
       this.router.navigateByUrl('/members'); // When user logs in -> redirect them to the members component.
       //this.loggedIn = true;
-    },error => {
-      console.log(error);
-      this.toastr.error(error.error);
     }
     )
   }
