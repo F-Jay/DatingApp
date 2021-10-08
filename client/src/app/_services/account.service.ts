@@ -2,6 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { ReplaySubject } from 'rxjs';
 import {map} from 'rxjs/operators'
+import { environment } from 'src/environments/environment';
 import { User } from '../_models/user';
 // Services are Injectable and can be Injected into other Services or Components.
 @Injectable({
@@ -11,7 +12,7 @@ import { User } from '../_models/user';
 // Services are Singleton - Data we store in our services does not get distroyed until application is closed out.
 export class AccountService {
 // Make requests to API
-  baseUrl = 'https://localhost:5001/api/';
+  baseUrl = environment.apiUrl;
 
   // Create an Observable - To store user in.
   private currentUserSource = new ReplaySubject<User>(1); // Type of Observable - ReplaySubject - Buffer Object - Emit Last/Many Objects inside it.
