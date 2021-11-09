@@ -35,11 +35,8 @@ namespace API.Entities
 
         public ICollection<Photo> Photos { get; set; } // One to Many Relationship -> One user can have many Photo's
 
-
-        // public int GetAge()
-        // {
-        //     return DateOfBirth.CalculateAge(); // CalcualteAge is an extension method
-        // }
+        public ICollection<UserLike> LikedByUsers { get; set; } // List of Users who liked the logged in users.
+        public ICollection<UserLike> LikedUsers { get; set; } // List of user the currently logged in user has liked.
 
     }
 }

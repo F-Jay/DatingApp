@@ -28,6 +28,7 @@ import { LoadingInterceptor } from './_interceptors/loading.interceptor';
 import { PhotoEditorComponent } from './members/photo-editor/photo-editor.component';
 import { TextInputComponent } from './_forms/text-input/text-input.component';
 import { DateInputComponent } from './_forms/date-input/date-input.component';
+import { ButtonsModule } from 'ngx-bootstrap/buttons';
 
 @NgModule({ // Root Module
   declarations: [
@@ -56,7 +57,8 @@ import { DateInputComponent } from './_forms/date-input/date-input.component';
     ReactiveFormsModule,
     BrowserAnimationsModule,
     SharedModule,
-    NgxSpinnerModule
+    NgxSpinnerModule,
+    ButtonsModule.forRoot()
   ],
   providers: [
     {provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true},
