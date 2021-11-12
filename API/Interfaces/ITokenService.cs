@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using API.Entities;
 
 namespace API.Interfaces
@@ -5,6 +6,6 @@ namespace API.Interfaces
     public interface ITokenService
     {
         // Desc >>> Interface Contract between itself and any class that implements it.
-        string CreateToken(AppUser user);
+        Task<string> CreateToken(AppUser user);
     }
 }
