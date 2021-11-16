@@ -18,7 +18,6 @@ export class LoadingInterceptor implements HttpInterceptor {
     // When about to send request
     this.busyService.busy();
     return next.handle(request).pipe(
-      delay(1000),
       finalize(() => { 
         this.busyService.idle();// Used when request has completed. -> Set spinner to Idle.
       })
