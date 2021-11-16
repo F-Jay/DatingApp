@@ -1,0 +1,119 @@
+[33mcommit 25c17a6368b08a22da831a172733b2accb38c749[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/FixMessages[m[33m, [m[1;32mFixMessages[m[33m)[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Tue Nov 16 18:17:38 2021 +0200
+
+    Applied fix
+
+[33mcommit ff3421e712bf1ec8f5d92f76d090dde20c59a8bc[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Tue Nov 16 17:54:10 2021 +0200
+
+    Try Fix Internal Server Error
+
+[33mcommit 039aac903d213856e17b14c366ba9bbe74b2234e[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Tue Nov 16 16:11:04 2021 +0200
+
+    Section 19 -pre switch to postgres
+
+[33mcommit 2dd16c095e90445ff749436447db9949dece517b[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Tue Nov 16 11:50:05 2021 +0200
+
+    End Of Sectiopn 18
+
+[33mcommit 7ef438660935f108233bdd6abe81bdca3e372de8[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Mon Nov 15 16:17:42 2021 +0200
+
+    End of Section 17
+
+[33mcommit 1bbf39b13a6209d9e409218d31389fcf698a602b[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Fri Nov 12 12:02:52 2021 +0200
+
+    End of Section 16
+
+[33mcommit c232b2ffe00e62872dff01c3d78981f6025823f8[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Thu Nov 11 16:07:19 2021 +0200
+
+    End of Section 15
+
+[33mcommit 4d0eafc9835adb3886a33337b0ed622bdc52d658[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Tue Nov 9 15:52:44 2021 +0200
+
+    End Of Section 14
+
+[33mcommit a4e535cc7e9a0dcac174f375e99c132b7e236919[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Thu Oct 14 10:54:31 2021 +0200
+
+    End of Section 13
+
+[33mcommit 687e27830fd290954650d2e5b8f94c514fe6bf08[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Wed Oct 13 14:58:57 2021 +0200
+
+    End of Section 12
+
+[33mcommit 011adbd8266b50f784c0540d857518aa2ec9122d[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Wed Oct 13 10:20:37 2021 +0200
+
+    End of Section 11
+
+[33mcommit 8a6ca0dc51cdcdde08e3aeb17f08cfdc9684870c[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Tue Oct 12 11:21:56 2021 +0200
+
+    End of Section 10
+
+[33mcommit 5a736d21424a3efa6b96e30bb0015da4608a7b9d[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Fri Oct 8 15:21:13 2021 +0200
+
+    End of Section 9
+
+[33mcommit fb5a98f6266dcbc2c8c7e18d7ae6dc46e877ab19[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Fri Oct 8 08:51:08 2021 +0200
+
+    End Of Section 8
+
+[33mcommit 6209bf0b60615a6d4c447c047d42f34406e9b401[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Thu Oct 7 15:35:38 2021 +0200
+
+    End of Section 7
+
+[33mcommit 9da5b523275415e9d02725dca0bb334c76852177[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Thu Oct 7 13:20:12 2021 +0200
+
+    End of Section 6
+
+[33mcommit a6535be35d31792780c88dd6a0de7513aef6b6fa[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Thu Oct 7 10:25:29 2021 +0200
+
+    End Of Section 5
+
+[33mcommit e0108367a04cc174ad33db959c19b7935b401642[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Thu Oct 7 10:22:39 2021 +0200
+
+    End of Section 5
+
+[33mcommit ff50ba1193fc77c7fe09cad8fc6d1e237a3453be[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Wed Apr 28 16:39:38 2021 +0200
+
+    End Of Section 3
+
+[33mcommit f19644ec5d522c35bd8976bb53777426bc69bb4e[m
+Author: F-Jay <fscholtz65@gmail.com>
+Date:   Tue Apr 20 19:41:51 2021 +0200
+
+    End of Section 2
