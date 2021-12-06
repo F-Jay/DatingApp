@@ -4,6 +4,7 @@ using API.Helpers;
 using API.Interfaces;
 using API.Services;
 using API.SignalR;
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
